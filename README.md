@@ -18,4 +18,4 @@ header('location:login.html');
 ?>
 用户名为$user
 3.Q:我不知道我的php版本怎么办
-A:请先访问http://你的域名/install/config.php,如果加载出来了就说明支持php，请查看是否支持mysql，mysqli,检查完后请删除config.php，防止骇客骇入
+A:请先访问http://你的域名/install/config.php 如果加载出来了就说明支持php，请查看是否支持mysql，mysqli,检查完后请删除config.php，防止骇客骇入
